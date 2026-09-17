@@ -1,0 +1,52 @@
+curl -s https://api.github.com/repos/AbdulSamad99661/expressBookReview
+
+{
+  "id": 1375002013,
+  "node_id": "R_kgDOUfTdnQ",
+  "name": "expressBookReview",
+  "full_name": "AbdulSamad99661/expressBookReview",
+  "private": false,
+  "owner": {
+    "login": "AbdulSamad99661",
+    "id": 301262952,
+    "node_id": "U_kgDOEfToaA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/301262952?v=4",
+    "url": "https://api.github.com/users/AbdulSamad99661",
+    "html_url": "https://github.com/AbdulSamad99661",
+    "type": "User",
+    "site_admin": false
+  },
+  "html_url": "https://github.com/AbdulSamad99661/expressBookReview",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/AbdulSamad99661/expressBookReview",
+  "parent": {
+    "id": 526233512,
+    "node_id": "R_kgDOH185yA",
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "private": false,
+    "owner": {
+      "login": "ibm-developer-skills-network",
+      "id": 65545582,
+      "html_url": "https://github.com/ibm-developer-skills-network",
+      "type": "Organization"
+    },
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "source": {
+    "id": 526233512,
+    "node_id": "R_kgDOH185yA",
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "private": false,
+    "owner": {
+      "login": "ibm-developer-skills-network",
+      "id": 65545582,
+      "html_url": "https://github.com/ibm-developer-skills-network",
+      "type": "Organization"
+    },
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "default_branch": "main"
+}
